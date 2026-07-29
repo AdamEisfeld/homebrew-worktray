@@ -12,8 +12,6 @@
     <a href="https://docs.worktray.io">Read the docs</a>
     ·
     <a href="https://github.com/AdamEisfeld/homebrew-worktray/releases/latest/download/Worktray.dmg">Download for Mac</a>
-    ·
-    <a href="https://github.com/AdamEisfeld/homebrew-worktray">Star on GitHub</a>
   </p>
 </div>
 
@@ -21,6 +19,8 @@
   src="https://github.com/user-attachments/assets/3b4bd68c-dcaa-4ea3-8022-9554dfd8ed2e"
   alt="Worktray — a private workbench for any file"
 />
+
+> If Worktray is useful to you, consider [starring the repository](https://github.com/AdamEisfeld/homebrew-worktray). It helps show public interest and supports a future submission to [Homebrew's official cask repository](https://docs.brew.sh/Acceptable-Casks).
 
 ## The short version
 
