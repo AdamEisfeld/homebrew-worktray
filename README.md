@@ -12,6 +12,8 @@
     <a href="https://docs.worktray.io">Read the docs</a>
     ·
     <a href="https://github.com/AdamEisfeld/homebrew-worktray/releases/latest/download/Worktray.dmg">Download for Mac</a>
+    ·
+    <a href="https://github.com/AdamEisfeld/homebrew-worktray">Star on GitHub</a>
   </p>
 </div>
 
@@ -20,11 +22,11 @@
   alt="Worktray — a private workbench for any file"
 />
 
-## Why I built it
+## The short version
 
-Worktray started with a small frustration: quick tasks often meant opening something much heavier than the task itself, or bouncing between focused web tools with ads, accounts, and uncertainty about where my data was going. I wanted one calm place to edit Markdown, inspect JSON, compose cURL, work with an SVG, or handle whatever small file was in front of me — without an account, ads, or a backend.
+Not every job needs a full IDE, a design suite, or a different web tool. Worktray covers the middle: edit Markdown, inspect JSON, compose a cURL request, tweak an SVG. It runs locally, without accounts, ads, or a backend.
 
-Once I found myself using the web app every day, the desktop version felt inevitable. I wanted the same simple workspace with native cURL requests and real files on disk, so a tray could live in Google Drive, iCloud Drive, Dropbox, git, or wherever I already keep my work. I chose [Tauri](https://tauri.app) to keep the desktop app as lightweight as possible, and the project snowballed from there.
+The Mac app adds real files, folder-backed trays that work with existing sync tools, and native cURL execution. It uses [Tauri](https://tauri.app) to keep the desktop footprint small.
 
 ## What you get
 
@@ -48,5 +50,3 @@ Homebrew requires an explicit trust step for third-party taps before their casks
 ## About this repository
 
 This public repository hosts Worktray's signed Mac releases and Homebrew Cask. The application source is private while the project is still being fleshed out; I may open-source it in the future.
-
-> If Worktray earns a place in your toolkit, consider [starring this repository](https://github.com/AdamEisfeld/homebrew-worktray). It helps others find it and provides a small signal of public interest for a future submission to [Homebrew's official cask repository](https://docs.brew.sh/Acceptable-Casks).
