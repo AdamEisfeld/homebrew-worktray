@@ -1,8 +1,8 @@
 cask "worktray" do
-  version "0.1.14"
-  sha256 "4f827321823265c5d65b100ac132e12b8149e9af46ac5f09cd77e956c17d1c64"
+  version "0.1.15"
+  sha256 "8ddeb1446d97c42ec3eec00d2910c9d2a682879c3166708da31139cc1db7c59e"
 
-  url "https://github.com/AdamEisfeld/homebrew-worktray/releases/download/desktop-v0.1.14/Worktray.dmg"
+  url "https://github.com/AdamEisfeld/homebrew-worktray/releases/download/desktop-v0.1.15/Worktray.dmg"
   name "Worktray"
   desc "Browser-based dev scratchpad, now on desktop"
   homepage "https://worktray.io"
